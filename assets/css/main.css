@@ -102,8 +102,8 @@ h6 {
 }
 
 .blue-button button {
-  background: color-mix(in srgb, var(--default-color), transparent 92%);
-  color:black;
+  background: var(--accent-color);;
+  color:#ffffff;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   
   border: none;
